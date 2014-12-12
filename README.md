@@ -7,7 +7,8 @@ bLazy is a lightweight script for lazy loading and multi-serving images (less th
 
 Support for old browsers added: 
 
-change placeholder image src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" with your full size images links instead for backwards compatibilities in old browsers but modern browsers don't load images before users scroll down. i.e.
+change placeholder image src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" with your full size images links instead for backwards compatibilities in old browsers but modern browsers don't load images before users scroll down. 
+i.e.
 
     <div class="pics ratio_small-img">
 			<img class="b-lazy" src="http://dinbror.dk/blazy/assets/bears/big-bear1.jpg" data-src="http://dinbror.dk/blazy/assets/bears/bear-small1.jpg" alt="Lazy load images small image1" />
