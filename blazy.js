@@ -1,5 +1,5 @@
 /*! 
-  Fallback: Change each src contents by a placeholder
+  Restore placeholder images for modern browsers
 */
 var _pics=document.getElementsByClassName("b-lazy");
 for (i=0; i < _pics.length; i++) {
