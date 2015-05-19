@@ -15,3 +15,7 @@ i.e.
     <div class="pics ratio_small-img">
 			<img class="b-lazy" src="http://dinbror.dk/blazy/assets/bears/big-bear1.jpg" data-src="http://dinbror.dk/blazy/assets/bears/bear-small1.jpg" alt="Lazy load images small image1" />
 		</div>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cara-tm/blazy.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
