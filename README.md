@@ -16,6 +16,8 @@ i.e.
 			<img class="b-lazy" src="http://dinbror.dk/blazy/assets/bears/big-bear1.jpg" data-src="http://dinbror.dk/blazy/assets/bears/bear-small1.jpg" alt="Lazy load images small image1" />
 		</div>
 
+Displays images if javascript is disabled. Displays images in old browsers. Uses a tiny image of one pixel as substitution in Base64 encoded format. Simple usage with a class name.
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cara-tm/blazy.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
